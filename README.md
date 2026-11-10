@@ -1,4 +1,4 @@
-# KoGES-FGF5-mQTL
+# KoGES-FGF5
 
 R code for the manuscript
 
